@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c625fb33-5b3c-4b72-9c3d-9528c49ecfc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Um5Iiw9IN7IfAUVWlMD4iPFgMq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c625fb33-5b3c-4b72-9c3d-9528c49ecfc3" name="Default Changelist" comment="" />
+      <created>1575948851055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575948851055</updated>
+      <workItem from="1575948852966" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1575949162741">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1575949162741" />
+    <state x="408" y="114" key="NewModule_or_Project.wizard" timestamp="1575948951364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="114" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1575948951364" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1575949153657">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575949153657" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1575948886749">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1575948886749" />
+  </component>
+</project>
